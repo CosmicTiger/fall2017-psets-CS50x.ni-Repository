@@ -2223,7 +2223,7 @@ US	85750	Tucson	Arizona	AZ	Pima	019			32.2974	-110.8404	4
 US	85751	Tucson	Arizona	AZ	Pima	019			32.2217	-110.9265	4
 US	85752	Tucson	Arizona	AZ	Pima	019			32.2217	-110.9265	4
 US	85754	Tucson	Arizona	AZ	Pima	019			32.2217	-110.9265	4
-US	85755	Tucson	Arizona	AZ	Pima	019			32.2217	-110.9265	4
+US	85755	Tucson	Arizona	AZ	Pima	019			32.4227	-110.9768	4
 US	85756	Tucson	Arizona	AZ	Pima	019			32.0839	-110.9004	4
 US	85757	Tucson	Arizona	AZ	Pima	019			32.1336	-111.0973	4
 US	85775	Tucson	Arizona	AZ	Pima	019			32.2217	-110.9265	4
@@ -7632,7 +7632,7 @@ US	32086	Saint Augustine	Florida	FL	Saint Johns	109			29.8285	-81.3237	4
 US	32092	Saint Augustine	Florida	FL	Saint Johns	109			29.9475	-81.5264	4
 US	32095	Saint Augustine	Florida	FL	Saint Johns	109			30.011	-81.4108	4
 US	32145	Hastings	Florida	FL	Saint Johns	109			29.7051	-81.4909	4
-US	32259	Saint Johns	Florida	FL	Saint Johns	109			30.3259	-81.6119	1
+US	32259	Saint Johns	Florida	FL	Saint Johns	109			30.0815	-81.5477	1
 US	32260	Jacksonville	Florida	FL	Saint Johns	109			29.9377	-81.4206	4
 US	34945	Fort Pierce	Florida	FL	St. Lucie	111			27.4382	-80.444	4
 US	34946	Fort Pierce	Florida	FL	St. Lucie	111			27.5008	-80.36	4
@@ -8650,8 +8650,8 @@ US	31039	Howard	Georgia	GA	Taylor	269			32.5598	-84.2277	4
 US	31058	Mauk	Georgia	GA	Taylor	269			32.509	-84.3999	4
 US	31076	Reynolds	Georgia	GA	Taylor	269			32.5541	-84.1011	4
 US	31081	Rupert	Georgia	GA	Taylor	269			32.4325	-84.2738	4
-US	31037	Mc Rae Helena	Georgia	GA	Telfair	271			32.8258	-83.5143	1
-US	31055	Mc Rae Helena	Georgia	GA	Telfair	271			32.6195	-83.8814	1
+US	31037	Mc Rae Helena	Georgia	GA	Telfair	271			32.0738	-82.9146	1
+US	31055	Mc Rae Helena	Georgia	GA	Telfair	271			32.068	-82.9007	1
 US	31060	Milan	Georgia	GA	Telfair	271			31.9618	-83.0588	4
 US	31083	Scotland	Georgia	GA	Telfair	271			32.0488	-82.8171	4
 US	31544	Jacksonville	Georgia	GA	Telfair	271			31.8481	-82.975	4
@@ -24025,7 +24025,7 @@ US	08820	Edison	New Jersey	NJ	Middlesex	023			40.578	-74.3589	4
 US	08824	Kendall Park	New Jersey	NJ	Middlesex	023			40.4208	-74.5529	4
 US	08828	Helmetta	New Jersey	NJ	Middlesex	023			40.3777	-74.4204	4
 US	08830	Iselin	New Jersey	NJ	Middlesex	023			40.5716	-74.3167	4
-US	08831	Monroe Township	New Jersey	NJ	Middlesex	023			40.5723	-74.5855	1
+US	08831	Monroe Township	New Jersey	NJ	Middlesex	023	Monroe Township	47280	40.3192	-74.4285	1
 US	08832	Keasbey	New Jersey	NJ	Middlesex	023			40.5192	-74.3021	4
 US	08837	Edison	New Jersey	NJ	Middlesex	023			40.5325	-74.3375	4
 US	08840	Metuchen	New Jersey	NJ	Middlesex	023			40.5449	-74.3517	4
